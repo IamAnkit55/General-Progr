@@ -1,2 +1,2 @@
 # General-Programming
-Solution for frequently asked problems on Leetcode.
+Solution for frequently asked interview problems on Leetcode.
